@@ -1,6 +1,6 @@
 # Información de sección
 section:
-  name: Education
+  name: Educación
   id: education
   template: sections/education.html 
   enable: true
