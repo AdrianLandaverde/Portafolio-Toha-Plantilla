@@ -48,6 +48,6 @@ badges:
 - type: certification
   name: Applied Data Science with Python #Nombre de insignia
   url: "https://www.credly.com/badges/" #Link de la insignia
-  badge: "https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png/" #Link imagen
+  badge: "https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" #Link imagen
  
 
