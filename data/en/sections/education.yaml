@@ -35,7 +35,7 @@ degrees:
     achieved: 92
     outOf: 100
   takenCourses: 
-    showGrades: false
+    showGrades: true
     collapseAfter: 4
     courses:
     - name: Maths
