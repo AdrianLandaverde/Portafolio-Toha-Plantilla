@@ -1,6 +1,6 @@
 # Información de sección
 section:
-  name: Projects
+  name: Proyectos
   id: projects
   enable: true
   weight: 4
@@ -8,7 +8,7 @@ section:
  
 # Botones de filtro
 buttons:
-- name: All
+- name: Todos
   filter: "all"
 - name: Python
   filter: "Python"
