@@ -1,28 +1,29 @@
 # Nombre completo
-name: "Naomi Padilla Mora"
+name: "Nombre Apellido1 Apellido2"
  
 # Apodo, o sólo cómo te gusta que te digan
-nickname: "Naomi"
+nickname: "Nombre"
  
 # Saludo inicial antes de tu apodo
-greeting: "Hi, I am"
+greeting: "Hola, yo soy"
  
 # Imagen de ti
 image: "images/author/profile.png"
  
 # Información de contacto
 contactInfo:
-  email: "naomipmora@gmail.com"
-  phone: "5549256311"
+  email: "correo@gmail.com"
+  phone: "5512345678"
   linkedin:
     icon: linkedin
-    url: "https://www.linkedin.com/in/naomi-padilla-mora-/"
-    text: "Naomi Padilla Mora"
+    url: "link de linkedin"
+    text: "Texto"
  
  
 # Descripción de ti
 summary:
-  - I am a Data Scientist
-  - I am a Reader
-  - I am a Team Worker
-  - I am a ...
+  - Soy un Científico de Datos
+  - Soy un ...
+  - Soy un ...
+  - Soy un ...
+  - Soy un ...
