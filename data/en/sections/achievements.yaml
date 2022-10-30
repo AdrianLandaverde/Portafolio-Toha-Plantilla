@@ -10,13 +10,17 @@ section:
 achievements:
 - title: Logro 1 #Nombre del Logro
   image: /images/achievements/logro.jpg #Imagen
- 
   summary: Descripción corta. #Descripción corta
+  
 - title: Logro 2 #Nombre del Logro
   image: /images/achievements/logro.jpg #Imagen
   summary: Descripción corta. #Descripción corta
  
-- title: Logro 3#Nombre del Logro
+- title: Logro 3 #Nombre del Logro
+  image: /images/achievements/logro.jpg #Imagen
+  summary: Descripción corta. #Descripción corta
+  
+- title: Logro 4 #Nombre del Logro
   image: /images/achievements/logro.jpg #Imagen
   summary: Descripción corta. #Descripción corta
  
