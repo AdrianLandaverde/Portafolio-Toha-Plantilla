@@ -16,7 +16,7 @@ accomplishments:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
   courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "Link" #Link del certificado
+  certificateURL: "https://mx.coursera.org/" #Link del certificado
  
 - name: "Curso 2" #Nombre del curso
   timeline: "2022" #Año
@@ -24,4 +24,4 @@ accomplishments:
     name: Coursera #Nombre de la organización que da el curso
     url: "https://es.coursera.org/" #link de la organización
   courseOverview: "Descripción del curso" #Descripción
-  certificateURL: "files/kaggle_courses.pdf" #Ruta del certificado
+  certificateURL: "files/certificado.pdf" #Ruta del certificado
